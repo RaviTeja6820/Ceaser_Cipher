@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DecryptTwoKey
+comment1.params=input\ key1\ key2
+comment1.target=java.lang.String\ encryptTwoKeys(java.lang.String,\ int,\ int)
+comment2.params=str
+comment2.target=int[]\ countAlpha(java.lang.String)
+comment3.params=arr
+comment3.target=int\ maxIndex(int[])
+comment4.params=str
+comment4.target=java.lang.String\ decryptTwoKeys(java.lang.String)
+comment5.params=
+comment5.target=void\ test()
+numComments=6
